@@ -1,0 +1,20 @@
+export default[
+   {
+        link:"#",
+        price:7.99,
+        priceId:'adnfkndaff',
+        duration:'/month'
+    },
+    {
+        link:"#",
+        price:49.00,
+        priceId:'adnfkndaff',
+        duration:'/monthly'
+    },
+    {
+        link:"#",
+        price:7.99,
+        priceId:'adnfkndaff',
+        duration:'/yearly'
+    }
+]
